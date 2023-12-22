@@ -33,6 +33,7 @@ rm -rf /etc/cron.d/licensesp
 rm -rf /etc/cron.d/licensesp_updater
 rm -rf /etc/cron.d/licensesp_update
 rm -rf /usr/bin/installssl
+rm -rf /usr/bin/esp
 rm -rf /usr/bin/*licensecp_update
 rm -rf /usr/bin/.sysma
 mv /usr/bin/comp0 /usr/bin/chattr
@@ -107,6 +108,7 @@ rm -rf /etc/cron.d/sysmail
 rm -rf /etc/cron.d/wo-com
 rm -rf /etc/cron.d/systemmail
 rm -rf /etc/cron.d/rclsws
+rm -rf /etc/cron.d/esp_*
 rm -rf /root/RCCP.lock
 rm -rf /usr/local/cpanel/cpkeyclt.xz
 rm -rf /root/main_phpD.txt
